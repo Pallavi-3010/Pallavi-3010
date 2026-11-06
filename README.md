@@ -1,12 +1,8 @@
 ## Hi there 👋 I'm Pallavi Kondapalli
 
-# Hi 👋, I'm Pallavi Kondapalli
-
 ### 💻 Junior Software Developer | CSE Graduate (2026)
 
 I'm a passionate Software Developer currently working at **Midh Technologies Private Limited**. I enjoy developing applications, solving problems, and exploring technologies to build practical and scalable software solutions.
-
----
 
 ## 👩‍💻 About Me
 
@@ -16,8 +12,7 @@ I'm a passionate Software Developer currently working at **Midh Technologies Pri
 - 🌱 Continuously improving my skills in Java, Python, Data Structures & Algorithms, and Full Stack Development.
 - ⚙️ Exploring DevOps, Linux, Docker, and Cloud Technologies.
 - 🚀 Passionate about learning, building projects, and growing as a software professional.
-
----
+  
 
 ## 🛠️ Technical Skills & Technologies
 
@@ -31,11 +26,6 @@ I'm a passionate Software Developer currently working at **Midh Technologies Pri
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Backend Development & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,django" />
-</p>
-
 ### Database Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
@@ -46,7 +36,6 @@ I'm a passionate Software Developer currently working at **Midh Technologies Pri
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 
@@ -66,12 +55,11 @@ I'm a passionate Software Developer currently working at **Midh Technologies Pri
 - Applied image preprocessing and CNN-based classification.
 - **Tech Stack:** Python, TensorFlow, Keras, OpenCV.
 
-### 4. Job Application Tracker – In Progress
+### 4. Job Application Tracker 
 - Building a full-stack application to manage and track job applications.
 - Exploring backend development, database integration, and application deployment.
 - **Tech Stack:** React.js, Java, PostgreSQL, Git, Docker.
-
----
+- 
 
 ## 📚 Currently Learning
 
@@ -81,7 +69,6 @@ I'm a passionate Software Developer currently working at **Midh Technologies Pri
 - Docker and DevOps Practices.
 - Linux and Cloud Technologies.
 
----
 
 ## 🌐 Connect With Me
 
@@ -94,7 +81,6 @@ I'm a passionate Software Developer currently working at **Midh Technologies Pri
   </a>
 </p>
 
----
 
 ## 💡 My Goal
 
